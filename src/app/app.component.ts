@@ -10,5 +10,7 @@ import {COURSES} from '../db-data';
 export class AppComponent {
 
   coreCourse = COURSES[0]
+  secondCourse = COURSES[1]
+  thirdCourse = COURSES[2]
 
 }
